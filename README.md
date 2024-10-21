@@ -29,7 +29,7 @@ Total churn and churn rate percentages have been visualized for demographic data
 
 ### Model Evaluation
 
-![Model Evaluation](https://github.com/AaliyaBai/PowerBI-ChurnPrediction/blob/29ebf00c47033011ab25b6233eb713a77557f1f9/Screenshots/ModelEvaluation.png)
+![Model Evaluation](https://github.com/AaliyaBai/PowerBI-ChurnPrediction/blob/79daa1033210a649dc2e5c158c52191ee9d48187/Screenshots/ModelEvaluation.png)
 
 The random forest model achieved an accuracy of 84%. The confusion matrix shows that the model correctly predicted 803 positive cases and 212 negative cases. However, it incorrectly predicted 59 negative cases as positive and 128 positive cases as negative.
 In the classification report, binary 0 represents customers who stayed, and binary 1 represents customers who churned. The report shows that out of all the instances predicted as customers who stayed, 86% were actual stayed customers. The recall percentage of 93% indicates that the model successfully predicted a higher number of true positive cases.
