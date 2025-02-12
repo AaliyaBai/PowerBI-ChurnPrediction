@@ -1,5 +1,6 @@
 ## Project: Telecom Customer Churn Analysis and Prediction
 
+### Customer churn analysis  using SQL, Python and PowerBI
 This project aims to develop a comprehensive churn analysis dashboard to provide insights into customer behaviour, identify potential churners, and inform targeted marketing strategies.
 ### Technical Stack
 - Database: Microsoft SQL Server
